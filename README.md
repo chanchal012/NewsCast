@@ -2,7 +2,6 @@
 
 Find Breaking Hot News from our website [NUIZ](https://nuiz.herokuapp.com/home) - https://nuiz.herokuapp.com.
 <br /><br />
-Group Project by:  **Naseer, Nitish, Bharat and Dhiren**.
 
 ## Features:
 * Current Weather Data.
